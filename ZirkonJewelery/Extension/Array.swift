@@ -2,7 +2,7 @@
 //  Array.swift
 //  ZirkonJewelery
 //
-//  Created by Shaxzod Azamatjonov on 25/05/22.
+//  Created by Muhammadali Yulbarsbekov on 25/05/22.
 //
 
 import Foundation

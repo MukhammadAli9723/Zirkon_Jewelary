@@ -2,7 +2,7 @@
 //  UserDefaultsManager.swift
 //  ZirkonJewelery
 //
-//  Created by Shaxzod Azamatjonov on 18/05/22.
+//  Created by Muhammadali Yulbarsbekov on 18/05/22.
 //
 
 import Foundation

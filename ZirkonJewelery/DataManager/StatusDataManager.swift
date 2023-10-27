@@ -2,7 +2,7 @@
 //  StatusDataManager.swift
 //  ZirkonJewelery
 //
-//  Created by Shaxzod Azamatjonov on 24/05/22.
+//  Created by Muhammadali Yulbarsbekov on 24/05/22.
 //
 
 import UIKit
