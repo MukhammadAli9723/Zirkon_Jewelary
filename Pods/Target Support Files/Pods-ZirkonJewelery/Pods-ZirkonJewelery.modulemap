@@ -1,0 +1,6 @@
+framework module Pods_ZirkonJewelery {
+  umbrella header "Pods-ZirkonJewelery-umbrella.h"
+
+  export *
+  module * { export * }
+}
